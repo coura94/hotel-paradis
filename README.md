@@ -27,7 +27,7 @@ The only external framework that we use is [Arquillian](http://arquillian.org/).
 
 ## Glassfish 3.1.2
 
-[Glassfish](http://glassfish.java.net) is the [Java EE 6](http://jcp.org/en/jsr/detail?id=316) reference implementation.
+[Glassfish](http://glassfish.java.net)  is the [Java EE 6](http://jcp.org/en/jsr/detail?id=316) reference implementation.
 
 ## Compile and package
 
